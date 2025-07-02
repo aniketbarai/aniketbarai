@@ -15,9 +15,10 @@
 ---
 ![Aniket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketbarai&theme=github-compact)
 ---
-### 🔥 My CodeChef Heatmap
+### 🧠 CodeChef Stats
 
-![CodeChef Heatmap](https://codechef-heatmap.vercel.app/api?user=aniket_barai)
+![CodeChef](https://cp-stats.vercel.app/api/codechef?user=aniket_barai)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
