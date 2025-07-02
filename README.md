@@ -18,8 +18,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aniket-123&theme=onedark&margin-w=15&no-bg=true&no-frame=true)](https://github.com/aniketbarai)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketbarai&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
 ![Stars](https://img.shields.io/github/stars/aniketbarai?style=social)
 ---
 
