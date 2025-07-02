@@ -15,8 +15,7 @@
 ---
 ![Aniket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketbarai&theme=github-compact)
 ---
-### 🧠 CodeChef Stats
-<img src="https://github-readme-codechef-stats.vercel.app/api/get_user?handle=aniket_barai&theme=dark" width="400">
+![CodeChef Badge](https://img.shields.io/badge/CodeChef-@aniket_barai?style=flat-square&logo=codechef)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
