@@ -19,7 +19,6 @@
 <div style="display: flex; overflow-x: scroll; padding: 10px; gap: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=aniketbarai&column=5&margin-w=20&margin-h=20&theme=darkhub&title=Stars,Followers,Repositories,Commits,PullRequest" style="min-width: 800px; height: auto;" />
 </div>
-
 ![Stars](https://img.shields.io/github/stars/aniketbarai?style=social)
 ---
 
