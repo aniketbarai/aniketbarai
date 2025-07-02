@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aniketbarai&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&layout=compact&theme=tokyonight)
 
+---
+![Aniket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketbarai&theme=github-compact)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
