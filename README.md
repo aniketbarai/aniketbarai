@@ -17,7 +17,7 @@
 ---
 ### 🧠 CodeChef Practice Heatmap
 
-![CodeChef Heatmap](https://codechef-heatmap.vercel.app/api?user= aniket_barai)
+![](https://codechef-heatmap.vercel.app/api?user=aniket_barai)
 
 
 ### ✍️ Random Dev Quote
