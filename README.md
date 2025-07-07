@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketbarai&show_icons=true&theme=radical)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aniketbarai&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&layout=compact)
 
 ![Aniket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketbarai&theme=github-compact)
 
