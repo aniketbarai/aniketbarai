@@ -1,39 +1,51 @@
-![hello](./hello.svg)
+<!-- Dynamic Hi There -->
+<p align="center">
+  <img src="./hello.svg" width="800" alt="Hello Animation"/>
+</p>
 
-# Competitive Coder | Spring Boot Developer!
+<h1 align="center">👋 Hey There, I'm Aniket!</h1>
 
-📚 I’m currently studying at **Veermata Jijabai Technological Institute**  
-🌱 I’m currently learning **Rust** — keep it a secret!  
-💬 Ask me about **Java, Spring Boot, JavaScript, Node.js, Next.js**  
-⚡ Fun fact: I cracked an Internship without Mock Interview. 😌
-
-[![Gmail](https://img.shields.io/badge/-Gmail-FF4B4B?logo=gmail&logoColor=white&style=for-the-badge)](mailto: aniketbarai677@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aniketbarai/)
-
----
-
-### 🛠️ Languages · Frameworks · Tools
-
-<!-- Example tech icons using shields.io - replace or add as you like -->
-![Java](https://img.shields.io/badge/Java-%23007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E?logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?logo=tailwind&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23DEA584?logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C?logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)
+<p align="center">
+  <b>Aspiring Software Engineer</b>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-
-<!-- Optional: languages card -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+- 🎓 I’m currently studying Computer Engineering  
+- 🌱 I’m learning **Java**  
+- 💬 Ask me about **Java, MongoDB, SQL, TailwindCSS**  
+- 💡 I love to solve problems.
 
 ---
 
-Thanks for stopping by! 🚀
+## 🛠️ **Languages • Frameworks • Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,mongodb,mysql,html,css,tailwind,react,express,git,github,vscode" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketbarai&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&layout=compact&theme=tokyonight" height="180">
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:yourgmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my profile, consider giving a star to my repositories!
+</p>
