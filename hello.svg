@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Hi There">
+  <style><![CDATA[
+    .bg { fill: none; }
+    .main {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      font-weight: 800;
+      font-size:64px;
+      fill: #ffffff;
+      letter-spacing: 0.4px;
+    }
+    .word { fill:#00aaff; }
+    .slot { opacity:0; }
+
+    /* Each slot will be visible 20% of the cycle (5 words -> 5 * 2s = 10s total) */
+    @keyframes show {
+      0%      { opacity: 1; }
+      19.99%  { opacity: 1; }
+      20%     { opacity: 0; }
+      100%    { opacity: 0; }
+    }
+
+    .s1 { animation: show 10s linear infinite; animation-delay: 0s; }
+    .s2 { animation: show 10s linear infinite; animation-delay: 2s; }
+    .s3 { animation: show 10s linear infinite; animation-delay: 4s; }
+    .s4 { animation: show 10s linear infinite; animation-delay: 6s; }
+    .s5 { animation: show 10s linear infinite; animation-delay: 8s; }
+
+    /* small responsive tweak so long words wrap nicely if needed */
+    text { dominant-baseline: hanging; }
+  ]]></style>
+
+  <!-- Transparent background so it fits dark/light themes -->
+  <rect class="bg" width="100%" height="100%" fill="transparent"/>
+
+  <!-- Static part -->
+  <text x="40" y="50" class="main">Hi&nbsp;</text>
+
+  <!-- Rotating words placed to the right of "Hi " -->
+  <g transform="translate(180,18)">
+    <text x="0" y="0" class="main slot s1"><tspan class="word">SQL</tspan>!</text>
+    <text x="0" y="0" class="main slot s2"><tspan class="word">Mongo</tspan>!</text>
+    <text x="0" y="0" class="main slot s3"><tspan class="word">Java</tspan>!</text>
+    <text x="0" y="0" class="main slot s4"><tspan class="word">Node.js</tspan>!</text>
+    <text x="0" y="0" class="main slot s5"><tspan class="word">TailwindCSS</tspan>!</text>
+  </g>
+</svg>
