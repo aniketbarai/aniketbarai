@@ -1,6 +1,6 @@
 <!-- Dynamic Hi There -->
 <p align="center">
-  <img src="hello.svg" width="800" alt="Hello Animation"/>
+  <img src="./hello.svg" width="800" alt="Hello Animation"/>
 </p>
 
 <h1 align="center">👋 Hey There, I'm Aniket!</h1>
@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="mailto: aniketbarai677@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/aniketbarai"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https:linkedin.com/aniketbarai"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
