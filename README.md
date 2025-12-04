@@ -23,7 +23,7 @@
 ## 🛠️ **Languages • Frameworks • Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,java,mongodb,mysql,html,css,tailwind,react,express,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,mongodb,mysql,html,css,tailwind,express,github,vscode" />
 </p>
 
 ---
@@ -40,8 +40,8 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:yourgmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto: aniketbarai677@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/aniketbarai"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
