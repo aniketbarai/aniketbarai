@@ -1,6 +1,6 @@
 <!-- Dynamic Hi There -->
 <p align="center">
-  <img src="./hello.svg" width="800" alt="Hello Animation"/>
+  <img src="hello.svg" width="800" alt="Hello Animation"/>
 </p>
 
 <h1 align="center">👋 Hey There, I'm Aniket!</h1>
@@ -23,7 +23,7 @@
 ## 🛠️ **Languages • Frameworks • Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,java,mongodb,mysql,html,css,tailwind,express,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,mysql,html,css,tailwind,express,github,vscode" />
 </p>
 
 ---
