@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey, I'm Aniket 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Computer+Engineering+Student;Web+Developer+%7C+Java+Learner;Future+MNC+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Computer+Engineering+Student;Web+Developer+%7C+Java+Learner;" />
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 Diploma in **Computer Engineering**
-- 🚀 Goal: Crack **Top MNC Placement**
 - 💻 Focus: **Web Development + AI Tools**
 - 🌱 Currently Learning: **Java & Backend Development**
 - 🧩 Problem Solver (CodeChef Practice)
