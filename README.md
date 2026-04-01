@@ -1,49 +1,67 @@
-<h1 align="center">👋 Hey There, I'm Aniket!</h1>
+<h1 align="center">🚀 Hey, I'm Aniket 👋</h1>
 
 <p align="center">
-  <b>Aspiring Software Engineer | Computer Engineering Student</b>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Computer+Engineering+Student;Web+Developer+%7C+Java+Learner;Future+MNC+Engineer+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniketbarai&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎓 I’m currently studying **Computer Engineering** - 🌱 I’m deepening my knowledge in **Java** - 💬 Ask me about **Java, MongoDB, SQL, and TailwindCSS** - 💡 I'm passionate about solving complex problems through clean code.
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 Diploma in **Computer Engineering**
+- 🚀 Goal: Crack **Top MNC Placement**
+- 💻 Focus: **Web Development + AI Tools**
+- 🌱 Currently Learning: **Java & Backend Development**
+- 🧩 Problem Solver (CodeChef Practice)
+- ⚡ Fun Fact: I turn coffee ☕ into clean code 💻
 
 ---
 
-## 🛠️ Languages • Frameworks • Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,nodejs,mysql,mongodb,html,css,tailwind,express,github,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,mongodb,mysql,html,css,tailwind,github,vscode&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Current Focus
+
+- 🔥 Mastering **Java (Core → Advanced)**
+- 🌐 Building **Full Stack Projects**
+- 🧠 Exploring **AI + Web Integration**
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketbarai&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="Aniket's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&layout=compact&theme=tokyonight" height="180" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketbarai&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aniketbarai&theme=tokyonight&border_radius=5"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🏆 Achievements & Goals
 
-<p align="center">
-  <a href="mailto:aniketbarai677@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aniketbarai">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+- 🏆 Build 5+ Real-World Projects
+- 🚀 Get Internship in 2026-2027
 
 ---
 
-<p align="center">
-  ⭐ If you like my profile, consider giving a star to my repositories!
-</p>
+## 💻 Featured Projects
+
+```diff
++ 🚧 Coming Soon:
++ 🚧 Cyber Security Awareness Project (HackAware)
++ 🚧 WeddingBingo(Sponsered)
