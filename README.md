@@ -32,7 +32,6 @@
 
 ## 🚀 Current Focus
 
-- 🔥 Mastering **Java (Core → Advanced)**
 - 🌐 Building **Full Stack Projects**
 - 🧠 Exploring **AI + Web Integration**
 
