@@ -27,7 +27,7 @@
 - 🌱 Currently Learning **Java & Backend Development**
 - 🤖 Exploring **AI + Web Integration**
 - 🧩 Competitive Programmer on **CodeChef**
-- 🚀 Goal: Become a **Software Engineer at Top MNCs**
+- 🚀 Goal: Become a **Software Engineer**
 - ⚡ Fun Fact: I turn coffee ☕ into scalable code 💻
 
 <br/>
@@ -47,7 +47,7 @@
 
 ## 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
 
 ---
 
@@ -59,7 +59,7 @@
 
 ## 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 
 </div>
 
@@ -86,8 +86,8 @@
 | 🛍️ CraftonBags | Modern E-Commerce Platform | MERN Stack |
 | 🛡️ HackAware | Cyber Security Awareness Website | React + Node.js |
 | 🎉 WeddingBingo | Sponsored Event Management Project | Full Stack |
-| 🏦 Mini Banking App | OOP-Based Banking System | JavaScript |
-| ⏰ Date & Time Management System | Productivity System | Java + DBMS |
+| 🏦 Mini Banking App | OOP-Based Banking System | Java |
+
 
 </div>
 
@@ -96,9 +96,9 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketbarai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniketbarai&theme=tokyonight"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketbarai&theme=tokyonight"/>
 </p>
 
 ---
@@ -150,30 +150,12 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/aniketbarai">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:aniketbarai677@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://www.codechef.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="55"/>
-  </a>
-
-  <a href="https://leetcode.com/">
-    <img src="https://skillicons.dev/icons?i=leetcode"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/">
-    <img src="https://skillicons.dev/icons?i=hackerrank"/>
   </a>
 </p>
 
@@ -192,11 +174,20 @@
 
 ---
 
-# 🎵 Spotify Playing
+# 👀 Secret Section
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v7xexample&cover_image=true&theme=novatorem"/>
-</p>
+<details>
+<summary>DO NOT CLICK ❌</summary>
+
+```txt
+Too late.
+
+Now you're legally required
+to star my future projects ⭐
+````
+
+</details>
+
 
 ---
 
