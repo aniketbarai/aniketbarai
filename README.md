@@ -1,7 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=220&section=header&text=Aniket%20Barai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<h1 align="center">🚀 Hey, I'm Aniket 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Java+%7C+MERN+%7C+AI+Explorer;Competitive+Programmer;Building+Projects+That+Matter" />
 </p>
